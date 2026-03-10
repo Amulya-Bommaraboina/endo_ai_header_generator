@@ -6,6 +6,7 @@ __pycache__/
 # Virtual environment
 .venv/
 venv/
+env/
 
 # Environment variables
 .env
@@ -13,8 +14,11 @@ venv/
 # macOS
 .DS_Store
 
-# PyCharm
+# IDE
 .idea/
+.vscode/
 
-# Results cache or temp files
+# Build / cache
+.pytest_cache/
+.mypy_cache/
 *.log
