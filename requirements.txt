@@ -1,3 +1,5 @@
 requests
 python-dotenv
 pillow
+streamlit
+huggingface_hub
